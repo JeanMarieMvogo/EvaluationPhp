@@ -1,0 +1,10 @@
+.fond {
+    background:  url('https://edito.seloger.com/sites/default/files/styles/manual_crop_1440x480/public/page_garde_guide/image/location-appartement-guide-seloger.jpg?itok=OtCuI5sf&c=d63190d171fd783906d17365aba288bf') center / cover;
+    height:100vh;
+}
+
+.image {
+    height:5rem;
+    width:5rem;
+    object-fit: cover;
+ }
